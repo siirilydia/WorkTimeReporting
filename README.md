@@ -9,7 +9,7 @@ Doing this was loads of fun, mainly because of by hilarious team members. But th
 so I had to maintain my focus to get this done.
 
 Frequently heard: "Stupid jokes about construction workers"
-                  "ADO what? I have been using the LinQ-thingy a lot more often?" (Here I learned the differences between ADO and EF)
-                  "Eh... I'm not sure if I can accomplish the mvp with so little time..."
-                  "X thing done! You can count it as done! *hands in the air*"
-                  "Y thing done! I made it in time! *hands in the air*"
+"ADO what? I have been using the LinQ-thingy a lot more often?" (Here I learned the differences between ADO and EF)
+"Eh... I'm not sure if I can accomplish the mvp with so little time..."
+"X thing done! You can count it as done! *hands in the air*"
+"Y thing done! I made it in time! *hands in the air*"
